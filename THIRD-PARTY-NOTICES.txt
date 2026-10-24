@@ -1,0 +1,59 @@
+bmstrainer が使用している・参考にしたソフトウェア
+==================================================
+
+各ライセンスの全文は licenses フォルダにあります。
+
+
+■ 同梱しているもの
+
+SoundTouch / SoundStretch 2.1.1（binaries\soundstretch.exe）
+  Copyright (c) Olli Parviainen
+  GNU Lesser General Public License v2.1（licenses\SoundTouch-LGPL-2.1.txt）
+  改変していない実行ファイルを、別プロセスとして呼び出しています。
+  ソースコード: https://www.surina.net/soundtouch/
+
+NAudio 2.2.1
+  Copyright (c) 2020 Mark Heath
+  MIT License（licenses\NAudio-MIT.txt）
+  https://github.com/naudio/NAudio
+
+NAudio.Vorbis 1.5.0
+  Copyright (c) 2021 Andrew Ward
+  MIT License（licenses\NAudio.Vorbis-MIT.txt）
+  https://github.com/naudio/Vorbis
+
+NVorbis 0.10.4
+  Copyright (c) 2020 Andrew Ward
+  MIT License（licenses\NVorbis-MIT.txt）
+  https://github.com/NVorbis/NVorbis
+
+.NET ランタイム（bmstrainer.exe に同梱）
+  Copyright (c) .NET Foundation and Contributors
+  MIT License（licenses\dotnet-MIT.txt）
+  https://github.com/dotnet/runtime
+
+
+■ 処理を移植したもの
+
+o!m2bms（om2bms）
+  osu!mania → BMS 変換の処理を C# に移植しています。
+  GNU General Public License v3.0（LICENSE.txt）
+  https://github.com/mashimycota/om2bms
+
+無音ノーツ自動置換ツール ver 1.1.0（作者: X @E_BMS_2025）
+  無音ノーツを BGM レーンのキー音に置き換える処理と「置換レーン順」を移植しています。
+  作者により改変・二次配布自由とされています。
+
+
+■ 参考にしたもの（コードは使用していません）
+
+osu-trainer（FunOrange）
+  画面構成や、速度変更・ピッチ変更の考え方を参考にしています。
+  https://github.com/FunOrange/osu-trainer
+
+OpenLR2
+  LR2 の FREQ の倍率（1 段 = 半音）を確認しました。
+  https://github.com/GOMazk/OpenLR2
+
+
+osu! は ppy Pty Ltd. の商標です。bmstrainer は osu! および LR2 とは関係のない非公式のツールです。

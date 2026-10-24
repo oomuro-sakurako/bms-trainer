@@ -1,0 +1,15 @@
+# ビルドで作られるもの
+bin/
+obj/
+
+# Visual Studio / エディタの個人設定
+.vs/
+.vscode/
+*.user
+*.suo
+
+# 配布用に作ったもの
+*.zip
+
+# ログファイル
+*.log
