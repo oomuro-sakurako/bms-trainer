@@ -4,6 +4,9 @@
 
 A practice tool for BMS charts (Windows).
 
+<img width="554" height="754" alt="1" src="https://github.com/user-attachments/assets/df2fc1ba-4818-4f4a-bada-fddc811a35ba" />
+
+
 - Change the speed of a chart (by BPM, or by FREQ steps just like LR2), with or without changing the pitch
 - Change the judge rank (EASY / NORMAL / HARD)
 - Convert osu!mania (7K / 8K) charts to BMS
