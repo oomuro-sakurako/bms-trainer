@@ -4,8 +4,7 @@
 
 A practice tool for BMS charts (Windows).
 
-<img width="554" height="754" alt="1" src="https://github.com/user-attachments/assets/df2fc1ba-4818-4f4a-bada-fddc811a35ba" />
-
+<img width="558" height="754" alt="2" src="https://github.com/user-attachments/assets/cf06c9a0-b4e4-4b06-8912-00a62dc7a6ec" />
 
 - Change the speed of a chart (by BPM, or by FREQ steps just like LR2), with or without changing the pitch
 - Change the judge rank (EASY / NORMAL / HARD)
