@@ -4,6 +4,8 @@
 
 BMS 채보 연습용 도구입니다 (Windows).
 
+<img width="560" height="750" alt="3" src="https://github.com/user-attachments/assets/0a712e07-0410-4e8e-bc74-a0385f30a30a" />
+
 - 채보의 속도 변경 (BPM 지정 / LR2와 같은 FREQ 지정, 피치 변경 여부 선택)
 - 판정 (EASY / NORMAL / HARD) 변경
 - osu!mania (7K / 8K) 채보를 BMS로 변환
