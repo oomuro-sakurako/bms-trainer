@@ -4,6 +4,8 @@
 
 BMS 譜面の練習用ツールです（Windows）。
 
+<img width="554" height="754" alt="1" src="https://github.com/user-attachments/assets/d6215e1e-1941-4ef3-b625-3fb0925bad42" />
+
 - 譜面の速度を変える（BPM 指定 / LR2 と同じ FREQ 指定、ピッチを変えるかどうかを選択）
 - 判定（EASY / NORMAL / HARD）を変える
 - osu!mania（7K / 8K）の譜面を BMS に変換する
